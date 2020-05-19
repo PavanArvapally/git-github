@@ -1,2 +1,2 @@
 # git-github
-i am beginner
+I am beginner
